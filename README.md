@@ -1,2 +1,6 @@
-# Peat-GPS-Tracker
-Open-source small, accurate, and functional GPS tracker for peat
+# Peat GPS Tracker
+
+🌍 Choose language | Оберіть мову:
+
+- 🇺🇦 [Українська версія](./README.uk.md)
+- 🇬🇧 [English version](./README.en.md)
