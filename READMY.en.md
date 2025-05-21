@@ -31,7 +31,7 @@ The project is currently in the early planning and requirements-gathering phase.
 The project is still in its early stages. If you’d like to get involved or follow the development:
 
 1. Visit the [firmware/](firmware) folder — will contain firmware source code *(coming soon)*  
-2. Check out [hardware/](hardware) — will include schematics, components list, and related files *(coming soon)*  
+2. Visit the [hardware/](hardware) folder — will include schematics, components list, and related files *(coming soon)*  
 3. Watch for updates in the [Issues](../../issues) or GitHub Projects tab
 
 ## 📜 License
