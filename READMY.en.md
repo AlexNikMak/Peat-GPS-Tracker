@@ -2,72 +2,88 @@
 
 ## 🔰 Introduction
 
-`Peat-GPS-Tracker` is an *open-source project focused on creating a GPS tracker for pets*.  
-While it can potentially be adapted for other use cases, the **primary goal** is to provide a simple, compact, and reliable solution for pet tracking.  
-The project is currently in the early planning and requirements-gathering phase.
+`Peat-GPS-Tracker` is an *open project focused on building a GPS tracker for pets*.  
+In the future, it can be adapted for various tasks, but the **main goal** is to provide a simple, compact, and accurate solution for tracking animals.  
+The project is currently in the early planning and requirement-gathering stage.
 
 ## 🎯 Project Goals
-The Peat-GPS-Tracker project pursues several key objectives, which can be grouped into three main directions:
 
-1. 📚 Learning and Personal Development
-One of my main personal goals is to gain and improve knowledge and skills in the various fields involved in this project. I aim not only to learn but also to share knowledge with others to foster growth and interest in technical creativity.
+Peat-GPS-Tracker has several key objectives, grouped into three main directions:
 
-This project focuses on:
+### 1. 📚 Learning and Development
 
-A. Searching for and studying technical documentation of electronic components, understanding their properties and how they interact;
+One of my personal primary goals is to gain and improve knowledge and skills across various fields covered by this project.  
+I aim not only to learn but also to share knowledge with others to inspire interest and progress in technical creativity.
 
-B. Developing project management skills for large, long-term projects;
+The project is focused on:  
+A. Searching and studying technical documentation of electronic components, analyzing their features and interactions  
+B. Developing project management skills for a large, long-term initiative  
+C. Practicing technical skills in areas such as electrical engineering and microelectronics — schematic creation, simulation, PCB design, and working with PCB manufacturers
 
-C. Gaining hands-on experience in technical disciplines such as electrical engineering and microelectronics — including circuit design, simulation using appropriate software, PCB development, and working with PCB manufacturers.
+### 2. 🐾 Building a Device Missing from the Market
 
-2. 🐾 Creating a Device That Is Missing from the Market
-Another major goal is to build a device that I couldn’t find available on the market for my cat. The reasons include:
+Another key goal is to build the device I couldn't find available for my own cat.  
+The reasons included:  
+A. Restrictions in policies of existing companies  
+B. Incompatibility of existing devices with my specific needs  
+C. Overpricing or unavailability in my region  
 
-limitations imposed by existing companies' policies;
+My version of the device should be accessible, open-source, compact, and functional.
 
-inadequate or excessive functionality;
+### 3. 💸 Potential Monetization
 
-high cost or lack of availability in my region.
+Lastly, while not the top priority, the possibility of receiving financial reward for the time and effort spent is also considered.  
+Since the project is complex and long-term, the chance to earn income from it in the future is appealing.
 
-The goal is to make the device open, accessible, compact, and tailored to real user needs.
+> ⚠️ There is currently no specific monetization strategy.  
+> This section will be updated as the project progresses.
 
-3. 💸 Potential Monetization
-Finally, an important (though not primary) objective is the potential for financial return for the time and effort invested in this complex and long-term project.
+## 🔧 Core Device Features
 
-⚠️ Currently, there is no clear monetization strategy. This section may be updated later as the project evolves.
+1. Accurate GPS location tracking (preferably with 1-meter precision)  
+2. Real-time location display via web or mobile interface  
+3. Long-term GPS data logging  
+4. Integration with existing tracking software such as [Traccar](https://www.traccar.org/)  
+5. Battery level monitoring and low-battery alerts  
+6. Remote configuration and firmware updates (OTA)
+
+> 🛠️ The list of features may change as the project develops.
 
 ## 🛣️ Roadmap
 
-> ℹ️ *This roadmap is currently maintained in the README. It will be moved to [GitHub Projects](https://github.com/users/AlexNikMak/projects) in the future.*
+> ℹ️ *At this stage, the roadmap is included here.  
+> In the future, it will be moved to [GitHub Projects](https://github.com/users/AlexNikMak/projects)*
 
 ### ✅ Completed
-- [x] Repository initialized
-- [x] Multilingual README created
-- [x] License file added with defined usage policy
+
+- [x] Repository created  
+- [x] Multilingual README file added  
+- [x] License file created with usage terms  
+- [x] Project goals and technical requirements defined  
 
 ### 🔄 In Progress
-- [ ] Defining clear project goals and technical requirements
+
+- [ ] Research and selection of core components (GPS, microcontroller, communication, power supply)  
+- [ ] Analysis of technical documentation for selected modules  
 
 ### 🧠 Planned
-- [ ] Selecting core components (GPS, microcontroller, communication, power supply)
-- [ ] Reviewing technical documentation for selected modules
-- [ ] Designing power circuit and PCB layout
-- [ ] Prototyping the first version
-- [ ] Developing basic firmware (location acquisition & transmission)
-- [ ] Testing and integrating with a server (e.g., Traccar or custom backend)
+
+- [ ] Power circuit and PCB design  
+- [ ] Prototype development  
+- [ ] Base firmware development (receiving and transmitting coordinates)  
+- [ ] Testing early versions and server integration  
 
 ## 🔧 Getting Started
 
-The project is still in its early stages. If you’d like to get involved or follow the development:
+The project is still in an early stage. If you want to contribute or just follow the development:
 
-1. Visit the [firmware/](firmware) folder — will contain firmware source code *(coming soon)*  
-2. Visit the [hardware/](hardware) folder — will include schematics, components list, and related files *(coming soon)*  
-3. Watch for updates in the [Issues](../../issues) or GitHub Projects tab
+1. Check the [firmware/](firmware) folder — the firmware code will be stored here *(coming soon)*  
+2. Check the [hardware/](hardware) folder — schematics, components, and materials will be published here *(coming soon)*  
+3. Follow updates in [Issues](../../issues) or GitHub Projects
 
 ## 📜 License
 
-This project is distributed under a **personal custom license**.  
-**Commercial use is permitted only with explicit written permission from the author.**
+This project is distributed under a **custom personal license**.  
+**Any commercial use is allowed only with my personal permission.**
 
 Details: [`LICENSE.txt`](LICENSE.txt)
-
